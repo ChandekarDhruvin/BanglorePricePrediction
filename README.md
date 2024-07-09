@@ -19,7 +19,7 @@
 5. **Model Building and Evaluation**:
    - Trained and evaluated multiple regression models:
      - **Linear Regression**: Tuned for fit_intercept.
-     - **Lasso Regression**: Tuned for alpha (regularization strength) and selection method (`random` vs `cyclic`).
+     - **Lasso Regression**: Tuned for alpha (regularization strength) and selection method (random vs cyclic).
      - **Decision Tree Regression**: Tuned for criterion (mse vs friedman_mse) and splitter (best vs random).
 
 6. **Model Selection**:
