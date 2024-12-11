@@ -32,7 +32,8 @@
 Overall, the notebook demonstrated a structured approach to data preprocessing, feature engineering, outlier management, model selection, and evaluation, culminating in a predictive model for home prices in Bangalore. The process aimed to optimize model performance and provide accurate predictions for real-world applications in the real estate domain.
 
 
-#Name :Chandekar Dhruvin
+# Name :Chandekar Dhruvin
+
 **Email : dhruvinchandekar@gmail.com**
 **Linkedin : www.linkedin.com/in/chandekar-dhruvin**
 
